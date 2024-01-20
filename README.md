@@ -1,25 +1,29 @@
+#My Changes will be in the interest of keeping the same quality but at the lowest pricepoint possible, and eventually implementing with a Dual Kinect V2 setup for full motion, hand, and facial mocap at once.
+#Particularly to be used with metahumans in Unreal Engine 5
+#My Youtube channel where I will catalog the videos is www.youtube.com/hockeytree
+#I intend to remove the need for the Vive Tracker completely, or replace with a DIY solution
+#I intend to replace the Flex Sensors with my own Open Source design
+
+
 # Mocap_Fusion_Gloves
-Arduino/SteamVR motion capture gloves. Check out more of my free motion capture tools and apps at www.MocapFusion.com
+Arduino Motion Capture Gloves visit www.MocapFusion.com for tools created by the original Mocap Fusion Gloves
 <br>
 ## Assembly Guide:
 [![Youtube Tutorial](https://raw.githubusercontent.com/guiglass/LUXOR/gh-pages/img/fusion_gloves/IMG_E0795.JPG)](https://www.youtube.com/watch?v=PCBvUHJH8Gw)
 <br>
-Files for assembling and programming these super low latency "DIY" motion capture glove using an Arduino and 5x SEN-08606 Flex Sensor 4.5" for each finger and a Vive tracker that is strapped to the 3D printed hand strap.
+Files for assembling and programming these super low latency "DIY" motion capture glove using an Arduino and DIY Clone of 5x SEN-08606 Flex Sensor 4.5" for each finger and a Vive tracker that is strapped to the 3D printed hand strap.
 <br>
 <br>
 Parts:
 <br>
-nRF24 wireless radio (RP-SMA): https://www.sparkfun.com/products/705
 
-nRF24 wireless radio: https://www.sparkfun.com/products/691
-
-SEN-08606 Flex Sensor: https://www.sparkfun.com/products/8606
+SEN-08606 Flex Sensor: https://www.sparkfun.com/products/8606 #Design Affordable DIY solution that is as good of quality
 
 Knit Gloves: https://www.amazon.com/OPT-Brand-Winter-Gloves-Wholesale/dp/B07XZL1ZK8
 
 Dynaflex (black): https://www.amazon.com/18280-DYNAFLEX-Black-Building-Material/dp/B000BQWXEO
 
-Boneduino with nRF24 raido: http://duinopeak.com/index.php?route=product/product&manufacturer_id=9&product_id=30
+Arduino Mega, or Clone 
 
 <br>
 <br>
