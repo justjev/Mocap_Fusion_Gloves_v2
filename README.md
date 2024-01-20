@@ -17,13 +17,15 @@ Files for assembling and programming these super low latency "DIY" motion captur
 Parts:
 <br>
 
-SEN-08606 Flex Sensor: https://www.sparkfun.com/products/8606 #Design Affordable DIY solution that is as good of quality
+SEN-08606 Flex Sensor: https://www.sparkfun.com/products/8606 #Design Affordable DIY solution that is as good of quality, details in subfolder
 
 Knit Gloves: https://www.amazon.com/OPT-Brand-Winter-Gloves-Wholesale/dp/B07XZL1ZK8
 
 Dynaflex (black): https://www.amazon.com/18280-DYNAFLEX-Black-Building-Material/dp/B000BQWXEO
 
 Arduino Mega, or Clone https://a.co/d/5AffrkX  #I intend to figure out the absolute cheapest wireless setup for this, but for now I will deal with wires
+
+10 x Resistors 20K OHM 5% 1/4W AXIAL: https://www.digikey.com/en/products/detail/yageo/cfr-25jb-52-20k/880
 
 Kinect V2 - Preferably from ebay for the lowest price possible, Preferably PC one, or an Xbox one with the USB adapter, personally I had an xbox one laying around, soldered in a 12 volt power supply from my box of wires, and bought a USB-B 3.0 cable from amazon: https://a.co/d/bAwgvMr  The software for this is https://github.com/KinectToVR/Amethyst-Releases/releases
 
