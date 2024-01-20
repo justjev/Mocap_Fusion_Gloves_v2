@@ -27,7 +27,10 @@ Arduino Mega, or Clone https://a.co/d/5AffrkX  #I intend to figure out the absol
 
 10 x Resistors 20K OHM 5% 1/4W AXIAL: https://www.digikey.com/en/products/detail/yageo/cfr-25jb-52-20k/880
 
-Kinect V2 - Preferably from ebay for the lowest price possible, Preferably PC one, or an Xbox one with the USB adapter, personally I had an xbox one laying around, soldered in a 12 volt power supply from my box of wires, and bought a USB-B 3.0 cable from amazon: https://a.co/d/bAwgvMr  The software for this is https://github.com/KinectToVR/Amethyst-Releases/releases
+Kinect V2 - Preferably from ebay for the lowest price possible, Preferably PC one, or an Xbox one with the USB adapter.
+Personally I had an xbox one laying around, soldered in a 12 volt power supply from my box of wires, and bought a USB-B 3.0 cable from amazon: https://a.co/d/bAwgvMr  
+Howto do the solder mod: https://www.youtube.com/watch?v=7lQ93qzggos
+The software for Kinect Steamvr integration https://github.com/KinectToVR/Amethyst-Releases/releases
 
 <br>
 <br>
