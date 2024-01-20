@@ -1,0 +1,23 @@
+Starting off this will be a collection of links and notes that I am using to figure out how to do this
+
+I bought a single one of the flex sensors from amazon to try to copy everything as closely as possible https://a.co/d/71oRMdE
+
+I know that they use a polymer that includes a conductive material that functions as a resistor
+My assumption is that it is graphite, as that is what most resistors use
+I spent quite a long time trying to find a flexible graphite based conductive paint and came across: https://www.instructables.com/Make-Conductive-Glue-and-Glue-a-Circuit/
+The ingredients are Graphite powder and Performix(tm) liquid tape
+My guess is that most of the liquid electrical tapes are roughly the same so I ordered: https://a.co/d/jduQoU9
+For graphite powder I know its not the absolute cheapest way but I bought: https://a.co/d/3LhQFSS
+
+The sensor also uses what looks to be thin flexible copper, squares over the carbon at intervals, and a long thin peice to connect the end of the circuit back down at the bottom
+To me it looks like copper tape, so I ordered: https://a.co/d/5afLK3H
+
+The sensor is also housed by a flexible plastic that has a return to shape being flat.
+I saw numerous youtube videos where people created similar gloves with nothing but pencil drawn on paper, these all seemed okay, however I think they are going to have poor continuity on resistance measurments, and poor durability
+The one I found the most interesting was: https://www.youtube.com/watch?v=SJNYbSpvlP8
+This man used what the subtitles translate to perspex, to me this is called Transparancy Paper, my main memory of it is when i was in school it was used for Proximas, I also have used it for burning screens for screenprinting
+I think using transparacy paper will work perfecly for my version of these sensors so I ordered: https://a.co/d/6Wk1T3B
+
+Altogether my supplies not including the original sensor I am using to copy came in at $36.57
+My assumption is this will be enough to make hundreds of these sensors, and currently 10 sensors (1 for each finger) costs about $200
+I will update this as parts come in
