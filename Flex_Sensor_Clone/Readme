@@ -12,6 +12,9 @@ For graphite powder I know its not the absolute cheapest way but I bought: https
 The sensor also uses what looks to be thin flexible copper, squares over the carbon at intervals, and a long thin peice to connect the end of the circuit back down at the bottom
 To me it looks like copper tape, so I ordered: https://a.co/d/5afLK3H
 
+Documentation on using paper as a pcb in the same way https://www.bunniestudios.com/blog/?p=5259
+main takeaway from that is solder joints are helpful for any turns, I plan to cut the copper in single peices so hopefully can avoid that causing flex issues
+
 The sensor is also housed by a flexible plastic that has a return to shape being flat.
 I saw numerous youtube videos where people created similar gloves with nothing but pencil drawn on paper, these all seemed okay, however I think they are going to have poor continuity on resistance measurments, and poor durability
 The one I found the most interesting was: https://www.youtube.com/watch?v=SJNYbSpvlP8
