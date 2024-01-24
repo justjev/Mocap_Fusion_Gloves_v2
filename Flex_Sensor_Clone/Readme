@@ -75,3 +75,11 @@ So far glue stick dissolved in alcohol with graphite added has been the most dur
 I did learn that you measure resistance in squares, so a square of one centimer with 3 ohms, using the same formula would on a mile square would also produce 3 ohms resistance
 so really i need to create a square that produces 12 kohm resistance, and then a polymer that rougly doubles in stretch size on the arc of a fully closed finger, have a electric tape glue graphite solution drying on a playing card hard sleeve, lots of outward pressure and that material does stretch
 If that works, then its just dialing in the graphite to polymer solution to that 12kohm per sqauare, so far bending still not having much of an effect
+
+# update research after previous experiments
+
+found https://patents.google.com/patent/US20100171583
+
+full description of the sensor in question. the secret appears to be microcracks of a crystalline or granular structure on the top of the graphite polymer that open up when bent. i bielive the solution may be to use very fine sand paper.
+patent also has a mixture ratio, and hight of polymers
+im pretty close, just need to test sand paper lik 600 grit WHILE IT IS BENT that should all it to make contact when its flat
