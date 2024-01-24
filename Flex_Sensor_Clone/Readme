@@ -24,3 +24,48 @@ I think using transparacy paper will work perfecly for my version of these senso
 Altogether my supplies not including the original sensor I am using to copy came in at $36.57
 My assumption is this will be enough to make hundreds of these sensors, and currently 10 sensors (1 for each finger) costs about $200
 I will update this as parts come in
+
+UPDATE 1/23/24
+
+Spoke with Grant of Mocap Fusion on discord, he had a request to try a design that included a 3rd analog point in the center of the band to better measure the seperate knuckles movements.
+He sent a design which I have placed in the images subfolder to explain what he meant. In that he described the orange flex plastic as kapton. Researched that, it is polyimide. Transparency is polyester.
+Found this article https://www.pcbjhy.com/blog/polyester-vs-polyimide/ 
+
+Looks like the main differnce that would effect this use case is polyester is less moisture resistant which with sweat from hands could be an issue, but I think it should be fine.
+
+Most everything is in
+
+#testing out the official flex sensor did in fact confirm my earlier suspicions and lead to a very clear understanding of the design choices, which are very much about durability than anything else.
+
+it is a long pad of graphite polymer painted directly on a polyimide film, segmented by 22 pads of conductive material, this looks like maybe silver or nickel polymer painted on top of graphite.
+in between each conductive pad is a thin line of only graphite polymer.
+This allows it to be very low resistance that only effects it at those points. The reasoning is very clear to me, it can be athick enough band of graphite to not fail quickly, but also remain in that resistance band that is effected reasonably well by stretching
+otherwise you would need an extremly thin band of graphite, or it would have to be incredibly short at the width it is at.
+
+The metal prongs are crimped through the plastic entirely, I assume because solder would block flexibilty and eventually fail
+
+Measurements: included in images subfolder you will see pictures taken showing measurements to the best of my ability (lost engineers ruler) all measured flat
+Kapton dimensions: 4 7/16 x 1/4
+112.712 x 6.35
+
+Graphite polymer dimensions: 3 15/16 x 1/8
+100.012 x 3.175
+Resistence including conductive pads: 12k ohm
+
+Conductive pad dimensions:1/8 x 5/32
+Resistance corner to corner: 0
+
+graphite at top and bottom dimensions:3/32 x 1/8
+Resistance corner to corner:
+
+Graphite strips between pad dimensions: 1/32 x 1/8
+Resistance end to end:
+
+Calculating Graphite polymer resistence per square millimeter corner to corner:
+End to end:
+
+#
+
+.04 mm2 is avg res
+
+
