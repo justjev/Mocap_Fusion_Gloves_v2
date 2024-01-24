@@ -68,4 +68,10 @@ End to end:
 
 .04 mm2 is avg res
 
+#update after some experimenting:
 
+So far glue stick dissolved in alcohol with graphite added has been the most durable way to apply carbon to a structure that flexes, however it does not flex the polymer enough to work, possibly the substrate itself doesnt apply enough pressure on the bend
+
+I did learn that you measure resistance in squares, so a square of one centimer with 3 ohms, using the same formula would on a mile square would also produce 3 ohms resistance
+so really i need to create a square that produces 12 kohm resistance, and then a polymer that rougly doubles in stretch size on the arc of a fully closed finger, have a electric tape glue graphite solution drying on a playing card hard sleeve, lots of outward pressure and that material does stretch
+If that works, then its just dialing in the graphite to polymer solution to that 12kohm per sqauare, so far bending still not having much of an effect
