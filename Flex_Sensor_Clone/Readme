@@ -83,3 +83,9 @@ found https://patents.google.com/patent/US20100171583
 full description of the sensor in question. the secret appears to be microcracks of a crystalline or granular structure on the top of the graphite polymer that open up when bent. i bielive the solution may be to use very fine sand paper.
 patent also has a mixture ratio, and hight of polymers
 im pretty close, just need to test sand paper lik 600 grit WHILE IT IS BENT that should all it to make contact when its flat
+
+
+#update 1/24/24
+Success. I ended up checking out the commercial flex sensor under my microscope, pictures in images folder. There is a noticable physical pattern that matches the crystal description
+flexed one of the graphite coated card case materiels and sliced it with average pressure serveral times from side to side up and down the graphite polymer. 
+returned it to flat and tested its resistance 310 kohms bent 250 kohms flat. works continually with lots of flexing
